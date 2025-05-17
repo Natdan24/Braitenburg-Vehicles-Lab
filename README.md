@@ -54,7 +54,7 @@ A demonstration of the first four Braitenburg-style vehicles, **all implemented 
 
 Below is a snapshot from our Unreal Engine demonstration, showing the “Fear” variant veering away from the light source (white orb):
 
-![Braitenburg Vehicle in Unreal Engine](AutoScreenshot.png)
+![Braitenburg Vehicle in Unreal Engine](Vehicle_1/AutoScreenshot.png)
 
 *Figure: Vehicle “Fear” variant in UE4, avoiding the light beacon.*
 
