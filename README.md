@@ -62,4 +62,4 @@ Below is a snapshot from our Unreal Engine demonstration, showing the “Fear”
 
 ## License
 
-[MIT © Your Name]
+[MIT © Natasha Shereen Benita]
